@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Login from "../Pages/Login";
-import UsersList from "../pages/UsersList";
-import EditUser from "../pages/EditUser";
+import UsersList from "../Pages/UsersList";
+import EditUser from "../Pages/EditUser";
 
 const AppRoutes = () => (
   <BrowserRouter>
